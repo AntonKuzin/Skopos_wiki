@@ -2,12 +2,14 @@
 
 ## Connections
 
-Two types of services are considered:
+Two types of connection are considered:
 1. Duplex connection;
 2. Point-to-multipoint connection (includes point-to-point).
 
 In both cases, the data rate is fixed, and there is a maximum latency for the basic service (round-trip latency in the duplex case).
 Lower latencies can be required as an improved service.
+
+For point-to-multipoint connections, service availability at each receiver is considered independently of the others.
 
 Connections can be exclusive or non-exclusive.
 
@@ -45,3 +47,15 @@ the more power you need, and thus the beefier the satellite needs to be.
 This can eventually become an incentive to focus the power in the right place using spot beams.
 
 RF spectrum takes longer to become a limiting factor; it is also more subtle. It means that eventually communications need to go through different antennas, one way or another, whether that means additional satellites or separate antennas (spot beams) on the same satellite.
+
+## Metrics
+
+Service availability requirements are refer to the availability over a moving window or over a fixed period.
+
+A short moving window is used for monitoring and alerting; a longer moving window is used for demonstrating a new capability.
+
+Fixed periods of one calendar month are used for maintenance.
+
+Fixed periods are also used for some milestone broadcasts such as the Olympics.
+
+TODO(egg): Provide a way to require availability *while* performing some actions, for milestone broadcasts pertaining to space exploration (EVAs, launches, etc.)
