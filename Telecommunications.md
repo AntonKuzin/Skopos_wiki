@@ -5,7 +5,7 @@ Three types of contracts are considered:
    - Broadcast the Olympics ([Tokyo 1964](https://www.nict.go.jp/publication/journal/11/058/Journal_Vol11_No058_pp363-376.pdf), [Mexico 1968](https://www.britishpathe.com/video/VLVAE4K8CWE482DWY4WXCVBW4B57D-USA-OLYMPIC-TV-CLIP), [Munich 1972](https://www.ebay.fr/itm/121367372570?hash=item1c420f231a:g:5q4AAOSws65Toxj5), [Montreal 1976](https://olympics.com/en/olympic-games/montreal-1976/torch-relay));
    - Worldwide telecast [*Our World* (1967)](https://www.youtube.com/watch?v=wbWMBiz2z7k);
    - Crewed spaceflight broadcasts, for instance:
-     - [first spacewalk](https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%81%D1%85%D0%BE%D0%B4-2):
+     - [first spacewalk](https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%81%D1%85%D0%BE%D0%B4-2);
        > Человек вышел в космическое пространство! Человек вышел в космическое пространство! Находится в свободном плавании!
      - [first live telecast of a launch](https://en.wikipedia.org/wiki/Gemini_4#Launch);
      - [first live telecast of a recovery](https://en.wikipedia.org/wiki/Gemini_6A#Objective);
