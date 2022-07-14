@@ -1,5 +1,3 @@
-# Telecommunications
-
 Three types of contracts are considered:
 1. Demonstrate a new capability, _e.g._, show that you can provide a transatlantic television channel;
 2. Maintain a capability over the long term, _e.g._, keep providing a transatlantic television channel;
@@ -15,7 +13,7 @@ Three types of contracts are considered:
        > That’s one small step for a man, one giant leap for mankind.
      - subsequent moon landings.
 
-## Connections
+# Connections
 
 Two types of connection are considered:
 1. Duplex connection;
@@ -50,7 +48,7 @@ described by the following sequence of exclusive and cumulative services in decr
 
 An Olympics broadcast would be expressed as a non-exclusive point-to-multipoint communication at 30 Mbps with a lenient latency requirement.
 
-## Usage
+# Usage
 
 A connection uses the lowest-latency channels available that are can sustain its data rate.
 Two resources are taken into account:
@@ -63,7 +61,7 @@ This can eventually become an incentive to focus the power in the right place us
 
 RF spectrum takes longer to become a limiting factor; it is also more subtle. It means that eventually communications need to go through different antennas, one way or another, whether that means additional satellites or separate antennas (spot beams) on the same satellite.
 
-## Metrics
+# Metrics
 
 Service availability requirements are refer to the availability over a moving window or over a fixed period.
 
