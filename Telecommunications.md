@@ -9,7 +9,7 @@ Three types of contracts are considered:
        > Человек вышел в космическое пространство! Человек вышел в космическое пространство! Находится в свободном плавании!
      - [first live telecast of a launch](https://en.wikipedia.org/wiki/Gemini_4#Launch);
      - [first live telecast of a recovery](https://en.wikipedia.org/wiki/Gemini_6A#Objective);
-     - [first steps on the moon](https://www.honeysucklecreek.net/images/Apollo_11/Apollo_11_EVA_TV_links_A4.pdf):
+     - [first steps on the moon](https://www.honeysucklecreek.net/images/Apollo_11/Apollo_11_EVA_TV_links_A4.pdf);
        > That’s one small step for a man, one giant leap for mankind.
      - subsequent moon landings.
 
