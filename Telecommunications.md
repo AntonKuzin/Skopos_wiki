@@ -28,8 +28,8 @@ described by the following sequence of exclusive and cumulative services in decr
 | 2 | from 1968 | 30 Mbps duplex | 720 telephone circuits or 1 TV channel each way
 | 3 | from 1971 | 60 Mbps duplex | 1680 telephone circuits or 2 TV channels each way
 | 4 | from 1975? | 120 Mbps duplex | 3600 telephone circuits or 4 TV channels each way
-| 5 | from the 80s? | 240 Mbps duplex | 7440 telephone circuits
-| 6 | from the 90s? | 480 Mbps duplex | 15120 telephone circuits
+| 5 | 80s? | 240 Mbps duplex | 7440 telephone circuits
+| 6 | 90s? | 480 Mbps duplex | 15120 telephone circuits
 
 An Olympics broadcast would be expressed as a non-exclusive point-to-multipoint communication at 30 Mbps with a lenient latency requirement.
 
