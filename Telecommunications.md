@@ -24,14 +24,14 @@ For instance, the evolving requirements of the transatlantic link might be
 described by the following sequence of exclusive and cumulative services in decreasing priority, all with a basic service with 60 s round-trip-time, and an improved service (suitable for telephony) with 800 ms round-trip time.
 | Lvl | approx. date | Level requirement | Cumulative equivalents |
 |---|---|---|---|
-| 1 | from 1965 | 30 Mbps duplex | 240 telephone circuits (probably means one-way television is alternatively possible)
-| 2 | from 1968 | 60 Mbps duplex | 720 telephone circuits or 1 TV channel each way
-| 3 | from 1971 | 120 Mbps duplex | 1680 telephone circuits or 2 TV channels each way
-| 4 | from 1975? | 240 Mbps duplex | 3600 telephone circuits or 4 TV channels each way
-| 5 | from the 80s? | 480 Mbps duplex | 7440 telephone circuits
-| 6 | from the 90s? | 960 Mbps duplex | 15120 telephone circuits
+| 1 | from 1965 | 15 Mbps duplex | 240 telephone circuits (probably means one-way television is alternatively possible)
+| 2 | from 1968 | 30 Mbps duplex | 720 telephone circuits or 1 TV channel each way
+| 3 | from 1971 | 60 Mbps duplex | 1680 telephone circuits or 2 TV channels each way
+| 4 | from 1975? | 120 Mbps duplex | 3600 telephone circuits or 4 TV channels each way
+| 5 | from the 80s? | 240 Mbps duplex | 7440 telephone circuits
+| 6 | from the 90s? | 480 Mbps duplex | 15120 telephone circuits
 
-An Olympics broadcast would be expressed as a non-exclusive point-to-multipoint communication at 60 Mbps with a lenient latency requirement.
+An Olympics broadcast would be expressed as a non-exclusive point-to-multipoint communication at 30 Mbps with a lenient latency requirement.
 
 ## Usage
 
