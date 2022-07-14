@@ -38,4 +38,10 @@ An Olympics broadcast would be expressed as a non-exclusive point-to-multipoint 
 A connection uses the lowest-latency channels available that are can sustain its data rate.
 Two resources are taken into account:
 - Power: on transmitting antennas, the total power consumed must not exceed the maximum transmitted power of the antenna;
-- RF Spectrum: on receiving antennas, the total bandwidth received must not exceed the width of the band.
+- RF Spectrum: the total bandwidth received and transmitted at an antenna must not exceed the width of the band.
+
+Power is straightforward: the more data you need to transmit and the further away your satellite,
+the more power you need, and thus the beefier the satellite needs to be.
+This can eventually become an incentive to focus the power in the right place using spot beams.
+
+RF spectrum takes longer to become a limiting factor; it is also more subtle. It means that eventually communications need to go through different antennas, one way or another, whether that means additional satellites or separate antennas (spot beams) on the same satellite.
