@@ -22,7 +22,7 @@ This corresponds to requirements of infrastructure capacity.
 
 For instance, the evolving requirements of the transatlantic link might be
 described by the following sequence of exclusive and cumulative services in decreasing priority, all with a basic service with 60 s round-trip-time, and an improved service (suitable for telephony) with 800 ms round-trip time.
-| Level | approx. date | Level requirement | Cumulative equivalents |
+| Lvl | approx. date | Level requirement | Cumulative equivalents |
 |---|---|---|---|
 | 1 | from 1965 | 30 Mbps duplex | 240 telephone circuits (probably means one-way television is alternatively possible)
 | 2 | from 1968 | 60 Mbps duplex | 720 telephone circuits or 1 TV channel each way
