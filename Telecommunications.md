@@ -63,7 +63,7 @@ RF spectrum takes longer to become a limiting factor; it is also more subtle. It
 
 # Metrics
 
-Service availability requirements are refer to the availability over a moving window or over a fixed period.
+Service availability requirements refer to the availability over either a moving window or a fixed period.
 
 A short moving window is used for monitoring and alerting; a longer moving window is used for demonstrating a new capability.
 
