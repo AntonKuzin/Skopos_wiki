@@ -14,7 +14,7 @@ The ground stations for the telecommunications contracts up the mid-seventies ar
 ## Spacecraft design
 
 The following transmitter powers are viable for experimental and level 1 contracts:
-* x W for an omnidirectional antenna in MEO;
+* 2 W for an omnidirectional antenna in MEO;
 * y W for an omnidirectional antenna in GEO;
 * z W for [dish type] in a Молния orbit.
 
