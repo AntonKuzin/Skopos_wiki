@@ -13,6 +13,24 @@ The ground stations for the telecommunications contracts up the mid-seventies ar
 
 Always keep geometry in mind when designing your constellations. Satellites can only serve as a relay between two ground stations if they are visible from both, and, all other things being equal, perform better when they are higher above the horizon. A 5000 km orbit with a 50° inclination will provide some coverage on the North Atlantic link, and can form the basis for a useful constellation; an equatorial 5000 km orbit will be useless, as it will always be either under the horizon or very low above it for the ground stations near 50° N.
 
+## How to choose the optimal antenna
+First off, let's cover some basic terminology. An omnidirectional antenna transmits in all directions equally. It's like a candle - it provides light in all directions, but this light isn't very bright. A directional antenna, on the other hand, transmits primarily in one direction - just like a flashlight. Omnidirectional antenna is never the best choice, unless you know exactly what are you doing.
+
+Next term is beamwidth. The beamwidth forms a transmission cone - all radio energy is getting focused inside this cone, but not equally distributed. This is the angle $\alpha$ between the cone axis and the half-lines.
+
+![image](https://github.com/user-attachments/assets/eeb14c57-615a-4218-8331-2da9b707fa4b)
+
+Now let's bring in some math.
+![image](https://github.com/user-attachments/assets/862c3a1c-4e97-4a4b-83b0-1d96f602d5a0)
+
+$$H=SG\geq\frac{R}{sin(\alpha)}-R=R\left(\frac{1}{sin(\alpha)} -1\right) $$ - this equation is used when one wants to calculate the minimum orbit's heigth for a given beamwidth, which allows to cover the whole visible Earth's disk.
+
+$$\alpha \geq arcsin\left(\frac{R}{H+R}\right)$$ - this equation is used when one wants to calculate the minimum antenna's beamwidth for a given altitude(for example, when designing a geostationary satellite)
+
+$$\beta = arccos\left(\frac{R}{H+R}\right)$$ - this equation is used to calculate the angular radius of the visible Earth's disk. For equatorial plane this angle is the maximum latitude visible from the satellite.
+
+
+
 ## Spacecraft design
 
 The following transmitter powers are viable for experimental and level 1 contracts on the transatlantic link:
